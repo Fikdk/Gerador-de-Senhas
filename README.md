@@ -4,9 +4,6 @@
 ## Qualidade das senhas geradas
 [Kaspersky Password Check](https://prnt.sc/rN9_Ik8eRym2)
 
-**Requisitos**
-- Python 3.x
-
 ## Funcionamento
 **Importação de Bibliotecas**
 - _secrets_: Utilizado para gerar senhas criptograficamente seguras.
@@ -29,3 +26,6 @@
 **Como Usar**
 - Clone o repositório.
 - Execute o script com **Python**.
+
+**Requisitos**
+- Python 3.x
